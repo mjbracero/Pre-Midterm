@@ -1,0 +1,358 @@
+.title{
+    font-family: 'Rubik Mono One';
+    font-weight: 400px;
+    font-size: 85px;
+    color:rgba(200, 52, 52, 1);
+    width:400px;
+    margin-top:100px;
+    margin-left:30px;
+    } 
+    
+    body{
+        background: rgba(239, 182, 77, 1);
+    }
+
+    .header-section > img{
+        display:inline;
+    }
+
+    .menu{
+        margin-left: 5px;
+    }
+    .account{
+        margin-left:130px;
+    }
+
+    .cart{
+        margin-left:130px;
+    }
+
+    .white{
+        width: 400px;
+        position: relative;
+        left: 240px;
+        bottom: 200px;
+    }
+
+    .chicken{
+        width: 560px;
+        position: relative;
+        right:385px;
+        bottom:270px; 
+    }
+
+    .order{
+        width:450px;
+        font-family: Rubik;
+        font-size:70px;
+        font-weight:900;
+        border-radius: 100px;;
+        background: #E68234;
+        position:relative;
+        border-style: none;
+        color: white;
+        left:60px; 
+        bottom: 200px;
+        padding:30px;  
+    }
+
+    .wrapper{
+        background: #C83434;
+        position:relative;
+        width:830px;
+        height:1300px;
+        left: 750px;
+        bottom:1500px;
+        border-bottom-left-radius: 100px;
+    }
+
+    .wthdrinks{
+        position:relative;
+        top:600px;
+        left:60px;
+        width:700px;
+    }
+
+    .discount{
+        color:black;
+        font-family: Rubik Mono One;
+        padding: 10px;
+        
+    }
+
+    .wrapper-2{
+        background: #DD9818;
+        position: relative;
+        width: 800px;
+        height:280px;
+        bottom:1330px;
+        right:8px;
+        border-top-right-radius: 70px;
+        border-bottom-right-radius: 70px;
+    }
+
+    .wrapper-2 > img{
+        position:relative;
+        display: inline;
+    }
+
+    .img1{
+        left: 88px;
+        top:80px;
+        width: 200px;
+    }
+
+    .img2{
+        left: 177px;
+        width: 200px;
+        top:70px;
+    }
+
+     .arrows{
+        width:90px;
+        left: 250px;
+        top: 65px;
+    }
+
+    .wrapper-3{
+        background: #FFCE0F;
+        position: relative;
+        width: 540px;
+        height:220px;
+        bottom:1570px;
+        border-radius: 60px;
+        left:900px;
+    }
+
+    .msg1{
+        color:red;
+        font-family:Rubik;
+        font-size:30px;
+        font-weight:900;
+        position:relative;
+        bottom:230px;
+        left:190px;
+    }
+
+    .msg2{
+        color:black;
+        font-family: Rubik;
+        font-size:30px;
+        font-weight:900;
+        position:relative;
+        bottom:295px;
+        left:270px;
+    }
+
+    .msg3{
+        color:black;
+        font-family: Rubik; 
+        font-size: 30px;
+        font-weight: 900;
+        position:relative;
+        bottom:310px;
+        left: 170px;
+    }
+
+    .logo
+    {
+        position: relative;
+        width:270px;
+        bottom:150px;
+        left: 150px;
+    }
+
+    .wrapper-4{
+        background: #C83434;
+        position: relative;
+        width: 700px;
+        height:900px;
+        bottom:1380px;
+        right:8px;
+        border-top-right-radius: 70px;
+        border-bottom-right-radius: 70px;
+    }
+
+    .whole{
+        position: relative;
+        top:80px;
+        left: 55px;
+        width:580px;
+    }
+
+    .banner-2 > img{
+        position:relative;
+    }
+
+    .pwede{
+        position:relative;
+        font-family: Rubik;
+        font-weight:900;
+        color: #C83434;
+        font-size:130px;
+        bottom: 2380px;
+        left: 800px;
+    }
+
+    .pang{
+        position:relative;
+        font-family: Rubik;
+        font-weight:900;
+        color: #C83434;
+        font-size:130px;
+        bottom: 2500px;
+        left: 800px;
+    }
+
+
+    .whitec{
+        width: 300px; 
+        bottom: 2730px;
+        left: 1050px;
+        width:390px;
+    }
+
+    .pulutan{
+        width:600px;
+        bottom:2790px;
+        left: 390px;
+    }
+
+    .enjoy{
+        font-family: Montserrat;
+        color:black;
+        position:relative;
+        font-size:40px;
+        width:541px;
+        bottom:2800px;
+        left: 790px;
+    }
+
+    .info > p{
+        position:relative;
+        color: #C83434;
+        font-family: Rubik;
+        font-weight:900;
+        font-size:33px;
+        left: 50px;
+        
+    }
+
+    .inq{
+        bottom: 2600px;
+    }
+
+    .ord{
+        bottom: 2620px;
+    }
+
+    .pho{
+        bottom: 2640px;
+    }
+
+    .info-2 > p{
+        position:relative;
+        color: #ffffff;
+        font-family: Rubik;
+        font-weight: 700;
+        font-size:21px;
+        left: 250px;
+    }
+
+    .email{
+       bottom: 2810px; 
+    }
+
+    .email-2{
+        bottom: 2805px;
+    }
+
+    .num{
+        bottom: 2800px;
+    }
+
+    .wrapper-5{
+        background: #DD9818;
+        position: relative;
+        width: 1026px;
+        height:300px;
+        bottom:3080px;
+        left: 550px;
+        border-top-left-radius: 70px;
+        border-bottom-left-radius: 70px;
+    }
+
+    .wrapper-5 > img{
+        position:relative;
+        display: inline;
+    }
+
+    .arrows1{
+        top: 50px;
+        width: 100px;
+        left: 120px;
+    }
+
+    .image1{
+        top: 65px;
+        width:250px;
+        left: 240px;
+    }
+
+    .image2{
+        top:60px;
+        width: 250px;
+        left: 340px;
+    }
+
+    .contact{
+        background-color: #E68234;
+        font-family: Rubik;
+        color:white;
+        font-weight: 900;
+        font-size: 30px;
+        width:290px;
+        height:70px;
+        border-radius: 50px;
+        position:relative;
+        bottom: 2780px;
+        left: 100px;
+        border-style: none;
+    }
+
+    .wrapper-6{
+        background-color: rgb(204, 202, 202);
+        width:1577px;
+        height:1px;
+        position:relative;
+        bottom: 2950px;
+    }
+
+    .wrapper-6 > img{
+        position:relative;
+        display:inline;
+    }
+
+    .logo-2{
+        bottom: 20px;
+        width:150px;
+        margin-top: 50px;
+    }
+
+    .socmed{
+        width: 370px;
+        left: 430px;
+        bottom: 60px;
+        
+        
+    }
+
+
+    
+    
+
+
+
+    
+
+    
